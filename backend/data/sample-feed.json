@@ -1,0 +1,17 @@
+
+[
+  {
+    "title": "AI Innovation Hackathon",
+    "organizer": "Example Engineering College",
+    "date": "2026-11-15",
+    "location": "Hyderabad",
+    "registrationLink": "https://example.com/register"
+  },
+  {
+    "title": "GreenTech Challenge",
+    "organizer": "Example Technology Institute",
+    "date": "2026-11-20",
+    "location": "Telangana",
+    "registrationLink": "https://example.com/greentech"
+  }
+]

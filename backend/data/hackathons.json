@@ -1,0 +1,1779 @@
+[
+  {
+    "id": 1790786710369,
+    "title": "Hyderabad Tech Hackathon",
+    "organizer": "ABC College",
+    "date": "2026-10-20",
+    "location": "Hyderabad",
+    "registrationLink": "https://example.com/register",
+    "createdAt": "2026-09-30T16:45:10.369Z"
+  },
+  {
+    "id": 1790788958545,
+    "title": "AI Innovation Hackathon",
+    "organizer": "Example Engineering College",
+    "date": "2026-11-15",
+    "location": "Hyderabad",
+    "registrationLink": "https://example.com/register",
+    "createdAt": "2026-09-30T17:22:38.545Z"
+  },
+  {
+    "id": 1790788958550,
+    "title": "GreenTech Challenge",
+    "organizer": "Example Technology Institute",
+    "date": "2026-11-20",
+    "location": "Telangana",
+    "registrationLink": "https://example.com/greentech",
+    "createdAt": "2026-09-30T17:22:38.549Z"
+  },
+  {
+    "id": 1790919317329,
+    "title": "Build with DataHub: The Agent Hackathon",
+    "organizer": "DataHub",
+    "date": "2026-07-06T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://datahub.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.329Z"
+  },
+  {
+    "id": 1790919317334,
+    "title": "OurPlanet.Rocks",
+    "organizer": "OurPlanet.Rocks",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ourplanetrocks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317335,
+    "title": "PIXEL.GEMINI 3.0",
+    "organizer": "MLH",
+    "date": "2026-08-10T23:59:00.000Z",
+    "location": "Valarpuram, India",
+    "registrationLink": "https://pixel-gemini-3-0.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317336,
+    "title": "Hackonomics 2027",
+    "organizer": "hackonomics",
+    "date": "2026-07-01T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hackonomics27.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317337,
+    "title": "AI Passport Ideathon",
+    "organizer": "egoist machines @ cambridge university",
+    "date": "2026-08-08T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ai-passport-ideathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317338,
+    "title": "NTU InnovateX Hackathon 2026",
+    "organizer": "nanyang technological university",
+    "date": "2026-07-27T23:59:00.000Z",
+    "location": "Nanyang Technological University",
+    "registrationLink": "https://ntu-cctf-snz-innovatex-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317339,
+    "title": "Arm Create: AI Optimization Challenge",
+    "organizer": "arm",
+    "date": "2026-06-04T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://arm-ai-optimization-challenge.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317340,
+    "title": "Canal Startup Sprint Hackathon",
+    "organizer": "Microsoft Student Club - SCU",
+    "date": "2026-07-26T23:59:00.000Z",
+    "location": "Creativa Innovation Hub Ismailia",
+    "registrationLink": "https://canal-startup-sprint-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317341,
+    "title": "INNOVIK 6.0 : International Hackathon 2026",
+    "organizer": "shekunj",
+    "date": "2026-07-15T23:59:00.000Z",
+    "location": "VITM, Indore",
+    "registrationLink": "https://innovik-6-0-hackathon-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317342,
+    "title": "ML Empowerment Build Challenge 2.0",
+    "organizer": "ML Empowerment Foundation",
+    "date": "2026-06-30T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ml-empowerment-2.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317343,
+    "title": "AceSAT Education AI-Agent",
+    "organizer": "AceSAT",
+    "date": "2026-06-12T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://acesat-ai-agent.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317344,
+    "title": "GatewayGS & The AEI Initiative:  AI 4 Earth Hackathon",
+    "organizer": "GatewayGS",
+    "date": "2026-07-25T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://gatewaygs-ai-4-earth-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317345,
+    "title": "LIKELION Internal Test Hackathon",
+    "organizer": "멋쟁이사자처럼",
+    "date": "2026-08-10T23:59:00.000Z",
+    "location": "LIKELION HQ",
+    "registrationLink": "https://likelion-test-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317346,
+    "title": "CUTC: Transform Hackathon",
+    "organizer": "Canadian Undergraduate Tech Conference",
+    "date": "2026-08-08T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://cutc-transform.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317347,
+    "title": "NEXORA Global Hackathon",
+    "organizer": "SVHEC",
+    "date": "2026-07-23T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://nexora-global-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317348,
+    "title": "Build Beyond Hackathon",
+    "organizer": "BuildBeyond",
+    "date": "2026-06-18T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://build-beyond-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317349,
+    "title": "Nexora",
+    "organizer": "hackhere",
+    "date": "2026-07-30T23:59:00.000Z",
+    "location": "SNS Innovation HUB",
+    "registrationLink": "https://nexora.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317350,
+    "title": "AQX Sports Analytics Data Bowl 3.0",
+    "organizer": "James Logan High School",
+    "date": "2026-08-05T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://aqxanalyticsthree.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317351,
+    "title": "Build with Gemini XPRIZE",
+    "organizer": "XPRIZE",
+    "date": "2026-05-19T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://xprize.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317352,
+    "title": "Reverie Hacks 2026",
+    "organizer": "ReverieHacks",
+    "date": "2026-08-02T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://reverie-hacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317353,
+    "title": "YouCam API Skin AI & Apparel VTO Hackathon",
+    "organizer": "Perfect Corp",
+    "date": "2026-07-06T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://youcam-api.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317354,
+    "title": "Win4AISafety - Open Research Summer Challenge",
+    "organizer": "SAIN Utrecht",
+    "date": "2026-07-06T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://win4aisafety-sain-utrecht.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317355,
+    "title": "CockroachDB × AWS Hackathon - Build with Agentic Memory",
+    "organizer": "Cockroach Labs",
+    "date": "2026-06-30T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://cockroachdb-ai.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317356,
+    "title": "Hack days in KGI",
+    "organizer": "Major League Hacking",
+    "date": "2026-08-02T23:59:00.000Z",
+    "location": "Hosur",
+    "registrationLink": "https://hack-days-in-kgi.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317357,
+    "title": "QuantumHacks",
+    "organizer": "Quantumhacks",
+    "date": "2026-06-21T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://quantumhacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317358,
+    "title": "Vidhyarthi Sewa EduHack Karnataka 2026",
+    "organizer": "Primus B School",
+    "date": "2026-07-31T23:59:00.000Z",
+    "location": "Primus B School",
+    "registrationLink": "https://vidhyarthi-sewa-eduhack.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317359,
+    "title": "BTT Web Game Jam - Summer 2026",
+    "organizer": "BTT",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://btt-web-game-jam.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317360,
+    "title": "GenZ Can Hack 2026",
+    "organizer": "Kids for Kids Toronto Coding Club",
+    "date": "2026-04-01T23:59:00.000Z",
+    "location": "Toronto",
+    "registrationLink": "https://genz-can-hack-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317361,
+    "title": "BuunieX Hackathon",
+    "organizer": "TechieBunnies team",
+    "date": "2026-06-22T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://buuniex-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317362,
+    "title": "ImpactForge",
+    "organizer": "ImpactForge",
+    "date": "2026-06-19T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://impactforge.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317363,
+    "title": "NeuralSprint",
+    "organizer": "NeuralSprint",
+    "date": "2026-06-18T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://neuralsprint.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317364,
+    "title": "Africa Deep Tech Challenge 2026",
+    "organizer": "Africa Deep Tech Foundation",
+    "date": "2026-06-17T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://adtc-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317365,
+    "title": "The Great Agent Hackathon",
+    "organizer": "Women In Product India",
+    "date": "2026-07-23T23:59:00.000Z",
+    "location": "Freshworks",
+    "registrationLink": "https://the-great-agent-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317366,
+    "title": "Hack The Limit",
+    "organizer": "HackTheLimit",
+    "date": "2026-06-18T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hack-the-limit-1.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317367,
+    "title": "All Things Agentic Hackathon",
+    "organizer": "Google",
+    "date": "2026-08-04T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://allthingsagentichackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317368,
+    "title": "Hacksocial 2026",
+    "organizer": "Hacksocial",
+    "date": "2026-08-01T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hacksocial2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317369,
+    "title": "Galuxium Nexus V2",
+    "organizer": "Galuxium",
+    "date": "2026-07-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://galuxium-nexus-v2-29411.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317370,
+    "title": "Hack the Habitat",
+    "organizer": "Hack the Habitat",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hack-the-habitat-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317371,
+    "title": "3D Websites Hackathon",
+    "organizer": "high school",
+    "date": "2026-06-22T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://3d-websites-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.333Z"
+  },
+  {
+    "id": 1790919317373,
+    "title": "AI YES :International Youth AI Competition",
+    "organizer": "International AI Youth Education Society",
+    "date": "2026-06-17T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ai-yes-competition-30441.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317374,
+    "title": "Build With Gemini - Creation Code",
+    "organizer": "Trainzex AI",
+    "date": "2026-07-17T23:59:00.000Z",
+    "location": "Jaipur, India",
+    "registrationLink": "https://creation-code-30750.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317375,
+    "title": "Hack for Humanity | Summer 2026",
+    "organizer": "Hack for Humanity",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hack-for-humanity-summer-26.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317376,
+    "title": "VoltHacks",
+    "organizer": "Dialogate",
+    "date": "2026-05-22T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://volthacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317377,
+    "title": "Gemini Event - HackMatrix",
+    "organizer": "Trainzex AI",
+    "date": "2026-08-09T23:59:00.000Z",
+    "location": "Jaipur",
+    "registrationLink": "https://gemini-event-hackmatrix.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317378,
+    "title": "Syntax Summit",
+    "organizer": "Student Organization",
+    "date": "2026-07-18T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://syntax-summit.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317379,
+    "title": "Agentic Cinema: The Blockbuster Hackathon",
+    "organizer": "Google",
+    "date": "2026-07-27T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://agentic-cinema.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317380,
+    "title": "DIALED IN Builder Challenge",
+    "organizer": "CreateHER Fest",
+    "date": "2026-08-04T23:59:00.000Z",
+    "location": "The Hub @ Office Logic",
+    "registrationLink": "https://dialedin.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317381,
+    "title": "AnimalHack 2026",
+    "organizer": "Binnovative",
+    "date": "2026-06-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://animalhack2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317382,
+    "title": "CALL-E: Your Code Is Calling",
+    "organizer": "CALL-E",
+    "date": "2026-07-23T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://call-e.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317383,
+    "title": "COMPSPHERE 11",
+    "organizer": "President University",
+    "date": "2026-08-03T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://compsphere11.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317384,
+    "title": "The Rice University Urban Sustainability Hackathon",
+    "organizer": "Rice University",
+    "date": "2026-06-23T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://rice-urban-sustainability.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317385,
+    "title": "Evorozen Apex: NextGen AI Buildathon",
+    "organizer": "Evorozen",
+    "date": "2026-07-17T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://evorozen-apex.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317386,
+    "title": "Global Innovation Build Challenge V2",
+    "organizer": "Kang Chiao International School Student",
+    "date": "2026-07-11T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://gibc-v2.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317387,
+    "title": "LUMA Hackathon (September 20th - 28th)",
+    "organizer": "LUMA",
+    "date": "2026-06-26T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://luma-hackathon-fall.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317388,
+    "title": "RevenueCat Shipaton 2026",
+    "organizer": "RevenueCat",
+    "date": "2026-07-31T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://revenuecat-shipaton-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317389,
+    "title": "AWS Trainium Frontier Competition",
+    "organizer": "Amazon Web Services",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://trainium-frontier.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317390,
+    "title": "UnivaBio",
+    "organizer": "BioCataalysis",
+    "date": "2026-08-07T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://univabio.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317391,
+    "title": "Hack Away Hunger: Food Insecurity Challenge",
+    "organizer": "dsmhack",
+    "date": "2026-07-18T23:59:00.000Z",
+    "location": "Corteva's Pioneer Shull Building",
+    "registrationLink": "https://hack-away-hunger.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317392,
+    "title": "HTCJ Aviation Futures Innovation Challenge",
+    "organizer": "hacktheconcretejungle",
+    "date": "2026-06-25T23:59:00.000Z",
+    "location": "San Diego Convention Center",
+    "registrationLink": "https://htcj-aviation-futures.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317393,
+    "title": "DSH Hacks V2",
+    "organizer": "STEMise",
+    "date": "2026-06-24T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://dsh-pitch-30500.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317394,
+    "title": "MCA 2026 projects",
+    "organizer": "Mizzou Computing Association",
+    "date": "2026-02-27T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://mca-2026-projects.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317395,
+    "title": "Code for Humanity",
+    "organizer": "nill",
+    "date": "2026-07-16T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://code-for-humanity.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317396,
+    "title": "STEM Energy Hackathon",
+    "organizer": "Young Scholars Education Limited",
+    "date": "2026-08-10T23:59:00.000Z",
+    "location": "To be addressed soon",
+    "registrationLink": "https://stem-energy-hackathon-30249.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317397,
+    "title": "GDGoC Summer DevSprint",
+    "organizer": "Google Developer Groups on Campus",
+    "date": "2026-08-12T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://gdgoc-summer-devsprint.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317398,
+    "title": "Kifiya Inspire Hackathon V4 2026",
+    "organizer": "Kifiya Financial Technology",
+    "date": "2026-08-14T23:59:00.000Z",
+    "location": "Addis Ababa, Ethiopia",
+    "registrationLink": "https://kifiya-inspire-hackathon-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317399,
+    "title": "Code Arizona",
+    "organizer": "hackclub",
+    "date": "2026-08-15T09:00:00.000Z",
+    "location": "Scottsdale, Arizona, United States",
+    "registrationLink": "https://codearizona.codehatch.org/",
+    "source": "hackclub",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317400,
+    "title": "YouthHackKC Summer Hackathon",
+    "organizer": "YouthHackKC",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Olathe Health Education Center",
+    "registrationLink": "https://youthhackkc-summer-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317401,
+    "title": "Zoftware Hireathon",
+    "organizer": "Enterprise Software Solutions",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Delhi",
+    "registrationLink": "https://zoftware-hireathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317402,
+    "title": "Hackdays Maa Chandika Convent School",
+    "organizer": "MLH",
+    "date": "2026-08-11T23:59:00.000Z",
+    "location": "Maa Chandika Convent School",
+    "registrationLink": "https://hackdays-mccs-lucknow.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317403,
+    "title": "CentennialHacks",
+    "organizer": "others",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Centennial College",
+    "registrationLink": "https://centennialhacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317404,
+    "title": "Horizons Equinox",
+    "organizer": "Hack Club",
+    "date": "2026-08-14T12:00:00.000Z",
+    "location": "Qesm El Nozha, Cairo, Egypt",
+    "registrationLink": "https://equinox.hackclub.com/",
+    "source": "hackclub",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317405,
+    "title": "Impact Forge: Summer 2026 Hackathon",
+    "organizer": "ImpactForge",
+    "date": "2026-08-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://impactforge26.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317406,
+    "title": "CS Girlies Annual Hackathon - Technology For Wellness",
+    "organizer": "Computer Science Girlies",
+    "date": "2026-08-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://cs-girlies-wellness-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317407,
+    "title": "PeddieHacks 2026",
+    "organizer": "Peddie Computer Science Club",
+    "date": "2026-08-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://peddiehacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317408,
+    "title": "Hack Days in Oriental",
+    "organizer": "Major League Hacking",
+    "date": "2026-08-16T23:59:00.000Z",
+    "location": "Main Auditorium - Oriental College",
+    "registrationLink": "https://hack-days-in-oriental.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317409,
+    "title": "Infinity Hacks 2026 | HackerRank",
+    "organizer": "HackerRank Campus Crew",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://infinity-hacks-2026-hackerrank.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317410,
+    "title": "Infinity Hacks",
+    "organizer": "hacker rank",
+    "date": "2026-08-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://infinity-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317411,
+    "title": "OregonHacks",
+    "organizer": "OregonHacks",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://oregonhacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317412,
+    "title": "Build with AI Hack Days @EMK",
+    "organizer": "UniDevs",
+    "date": "2026-08-17T23:59:00.000Z",
+    "location": "EMK Center",
+    "registrationLink": "https://build-with-ai-hack-days-emk.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317413,
+    "title": "Hack with Series",
+    "organizer": "localhost-nyc",
+    "date": "2026-08-18T23:59:00.000Z",
+    "location": "Series HQ",
+    "registrationLink": "https://hack-with-series.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317414,
+    "title": "HACKNOVA'26",
+    "organizer": "Rajalakhmi Institute of Technology",
+    "date": "2026-08-18T23:59:00.000Z",
+    "location": "Chembarambakkam in Tamil Nadu, India.",
+    "registrationLink": "https://hacknova-26-30838.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317415,
+    "title": "Pixel Forge AI Hackathon",
+    "organizer": "hackclub",
+    "date": "2026-08-15T04:00:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://pixelforgehackathons.info/",
+    "source": "hackclub",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317416,
+    "title": "Suvidha AI Virtual Hackathon",
+    "organizer": "Suvidha International Foundation",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://suvidha-ai-virtual-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317417,
+    "title": "Hackdays fatehpur",
+    "organizer": "MLH",
+    "date": "2026-08-19T23:59:00.000Z",
+    "location": "Virtual",
+    "registrationLink": "https://hackdays-fatehpur-30935.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317418,
+    "title": "Pixel Forge AI Hackathon ($13,000+ in Prizes)",
+    "organizer": "Pixel Forge",
+    "date": "2026-08-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://pixel-forge-ai-hackathon-08.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317419,
+    "title": "8-Bit Jam",
+    "organizer": "Hack Club",
+    "date": "2026-08-22T23:59:00.000Z",
+    "location": "Great Falls, Virginia",
+    "registrationLink": "https://8-bit-jam.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317420,
+    "title": "NextStep Hacks 2026",
+    "organizer": "HackAlphaX",
+    "date": "2026-08-21T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://nextstep2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317421,
+    "title": "CodeWars",
+    "organizer": "Hacker's Unity",
+    "date": "2026-08-23T23:59:00.000Z",
+    "location": "Arya College of Engineering and IT",
+    "registrationLink": "https://codewars.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317422,
+    "title": "Hacking  2026",
+    "organizer": "Student Organization",
+    "date": "2026-08-24T23:59:00.000Z",
+    "location": "Lahore",
+    "registrationLink": "https://cloudhacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317423,
+    "title": "TechX Rwanda Hackathon",
+    "organizer": "IEEE CMU Africa",
+    "date": "2026-08-27T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://techx-rwanda-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317424,
+    "title": "DreamHacks @ Georgia Institute of Technology",
+    "organizer": "DreamHacks",
+    "date": "2026-08-29T23:59:00.000Z",
+    "location": "Georgia Institute of Technology",
+    "registrationLink": "https://dreamhacks-gt.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317425,
+    "title": "Vibe Code Animated Maps",
+    "organizer": "Mappi Studio",
+    "date": "2026-08-29T23:59:00.000Z",
+    "location": "South Plainfield Library",
+    "registrationLink": "https://vibecode-animated-maps.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317426,
+    "title": "RescueHacks",
+    "organizer": "Student Run",
+    "date": "2026-08-22T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://rescue-hacks-30680.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317427,
+    "title": "SaugaHacks",
+    "organizer": "Sauga Hacks",
+    "date": "2026-08-28T23:59:00.000Z",
+    "location": "Mississauga",
+    "registrationLink": "https://saugahacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317428,
+    "title": "Proof of Possible 2026",
+    "organizer": "Proof of Possible",
+    "date": "2026-08-12T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://proof-of-possible-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317429,
+    "title": "TikTok TechJam 2026",
+    "organizer": "TikTok",
+    "date": "2026-08-29T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://tiktoktechjam2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317430,
+    "title": "Code Vidya Hack Days",
+    "organizer": "MLH",
+    "date": "2026-09-01T23:59:00.000Z",
+    "location": "Kanpur Nagar UP",
+    "registrationLink": "https://code-vidya-hack-days.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317431,
+    "title": "DevNetwork [API + Cloud + AI] Hackathon 2026",
+    "organizer": "DevNetwork",
+    "date": "2026-08-17T23:59:00.000Z",
+    "location": "Santa Clara Convention Center and Online",
+    "registrationLink": "https://api-cloud-ai-hackathon-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317432,
+    "title": "EmP Hackfest Summer 2026",
+    "organizer": "Emerald Parents",
+    "date": "2026-09-05T23:59:00.000Z",
+    "location": "DigiPen Institute of Technology",
+    "registrationLink": "https://emp-hackfest-summer-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317433,
+    "title": "MYHack: ISNA 2026",
+    "organizer": "Mafiq Foundation",
+    "date": "2026-09-05T23:59:00.000Z",
+    "location": "Detroit, MI, USA",
+    "registrationLink": "https://myhack-isna.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317434,
+    "title": "Hack Knowvy - 1",
+    "organizer": "Knowvy Technologies",
+    "date": "2026-09-06T23:59:00.000Z",
+    "location": "Indrapuri, Bhopal",
+    "registrationLink": "https://hack-knowvy-1.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317435,
+    "title": "Global Psyops Hackathon",
+    "organizer": "Prosocial Engineering",
+    "date": "2026-09-04T23:59:00.000Z",
+    "location": "Distribution Hall",
+    "registrationLink": "https://global-psyops-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317436,
+    "title": "Build with Gemini - Gen Recruiter",
+    "organizer": "Trainzex AI",
+    "date": "2026-09-10T23:59:00.000Z",
+    "location": "Jaipur, India",
+    "registrationLink": "https://gen-recruiter-google-gemini.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317437,
+    "title": "Stupid Ideas Hackathon (Ottawa F26)",
+    "organizer": "stupid ideas hackathon",
+    "date": "2026-09-12T23:59:00.000Z",
+    "location": "Ottawa, Canada",
+    "registrationLink": "https://stupideas-ottawa-f26.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317438,
+    "title": "Trust in the Hiring Funnel Hackathon",
+    "organizer": "localhost-nyc",
+    "date": "2026-09-12T23:59:00.000Z",
+    "location": "NYU",
+    "registrationLink": "https://trust-in-the-hiring-funnel.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317439,
+    "title": "Animal Hack",
+    "organizer": "hackclub",
+    "date": "2026-09-13T15:00:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://animalhack.org",
+    "source": "hackclub",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317440,
+    "title": "RoadStar Hackathon",
+    "organizer": "Enterprise Software Solutions",
+    "date": "2026-09-05T23:59:00.000Z",
+    "location": "Waterloo, ON",
+    "registrationLink": "https://roadstarhackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317441,
+    "title": "VentureFix",
+    "organizer": "PropNote AI",
+    "date": "2026-08-30T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://venturefix.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317442,
+    "title": "Southwest MN Hacks",
+    "organizer": "Aulden",
+    "date": "2026-09-12T23:59:00.000Z",
+    "location": "Upper conference center, SMSU",
+    "registrationLink": "https://southwest-mn-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317443,
+    "title": "AI Builders Hackathon",
+    "organizer": "OSC",
+    "date": "2026-08-21T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ai-builders-hackathon-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317444,
+    "title": "GatewayGS Hackathon 2",
+    "organizer": "GatewayGS",
+    "date": "2026-09-01T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://gatewaygs-hackathon-2.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317445,
+    "title": "General Learning Hacks",
+    "organizer": "General Learning",
+    "date": "2026-09-18T23:59:00.000Z",
+    "location": "3/F Lee Garden 3, Causeway Bay",
+    "registrationLink": "https://general-learning-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317446,
+    "title": "Expo 26 hackathon",
+    "organizer": "abbvie",
+    "date": "2026-09-19T23:59:00.000Z",
+    "location": "the venue hotel jeddah",
+    "registrationLink": "https://expo26.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317447,
+    "title": "Case Closed",
+    "organizer": "GDG on Campus Sheridan College",
+    "date": "2026-09-20T23:59:00.000Z",
+    "location": "Location TBA",
+    "registrationLink": "https://caseclosed.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317448,
+    "title": "Coffee and Code Agent Hackathon",
+    "organizer": "Coffee and Code Philadelphia",
+    "date": "2026-09-20T23:59:00.000Z",
+    "location": "Pennovation center",
+    "registrationLink": "https://coffee-and-code-agent.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317449,
+    "title": "MunichTech EXPO",
+    "organizer": "MunichTecg EXPO",
+    "date": "2026-09-01T23:59:00.000Z",
+    "location": "Munich, Germany",
+    "registrationLink": "https://munichtech-expo.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317450,
+    "title": "Cyber Hawk Hack Days",
+    "organizer": "monmouth university",
+    "date": "2026-09-26T23:59:00.000Z",
+    "location": "Monmouth University",
+    "registrationLink": "https://cyber-hawk-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317451,
+    "title": "Recruit Holdings Hackathon “Innovation Cup”",
+    "organizer": "Recruit Holdings Co., Ltd.",
+    "date": "2026-09-25T23:59:00.000Z",
+    "location": "CA, USA",
+    "registrationLink": "https://innovation-cup2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317452,
+    "title": "Shower Hacks",
+    "organizer": "Shower Hacks",
+    "date": "2026-09-26T23:59:00.000Z",
+    "location": "Bay Area",
+    "registrationLink": "https://showerhacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317453,
+    "title": "Hack Atlantic",
+    "organizer": "Hack Atlantic",
+    "date": "2026-09-27T23:59:00.000Z",
+    "location": "Fredericton, New Brunswick",
+    "registrationLink": "https://hack-atlantic-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317454,
+    "title": "HackGT13",
+    "organizer": "HexLabs",
+    "date": "2026-09-25T23:59:00.000Z",
+    "location": "Klaus Advanced Computing Building",
+    "registrationLink": "https://hackgt13.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317455,
+    "title": "Lake Oswego Hacks",
+    "organizer": "Lake Monsters Robotics (frc2635)",
+    "date": "2026-09-26T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://lake-oswego-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317456,
+    "title": "SC Quantathon v3",
+    "organizer": "Clemson Quantum",
+    "date": "2026-09-26T23:59:00.000Z",
+    "location": "Clemson University",
+    "registrationLink": "https://sc-quantathon-v3.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317457,
+    "title": "&HACKS XII",
+    "organizer": "MLH",
+    "date": "2026-09-26T23:59:00.000Z",
+    "location": "William &amp; Mary - ISC4",
+    "registrationLink": "https://hacks-xii.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317458,
+    "title": "Beginner's Paradise - FirstCommit",
+    "organizer": "elipseday",
+    "date": "2026-08-21T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://firstcommit.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317459,
+    "title": "OneAquaHealth IEEE Global Hackathon",
+    "organizer": "OneAquaHealth",
+    "date": "2026-09-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://oneaquahealth-ieee-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317460,
+    "title": "GatewayHacks 2026 | Software & AI",
+    "organizer": "GatewayGS",
+    "date": "2026-09-01T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://gatewayhacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317461,
+    "title": "codeLinc 11 with Lincoln Financial & AWS",
+    "organizer": "Lincoln Financial Group",
+    "date": "2026-10-03T23:59:00.000Z",
+    "location": "Lincoln Financial Group - Greensboro, NC",
+    "registrationLink": "https://codelinc11.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317462,
+    "title": "Dublin Hacx",
+    "organizer": "Emerald High School",
+    "date": "2026-10-03T23:59:00.000Z",
+    "location": "SAP Office — San Ramon, CA",
+    "registrationLink": "https://dublin-hacx.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317463,
+    "title": "Prompt2Product: MLH Hack Day @ AITR",
+    "organizer": "Acropolis Institute of Technology and RC",
+    "date": "2026-10-08T23:59:00.000Z",
+    "location": "AITR Indore",
+    "registrationLink": "https://prompt2product.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317464,
+    "title": "ForgeHacks Online 2026",
+    "organizer": "ForgeHacks",
+    "date": "2026-10-03T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://forgehacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317465,
+    "title": "Hyphen-Hacks",
+    "organizer": "Lick-Wilmerding High School",
+    "date": "2026-10-10T23:59:00.000Z",
+    "location": "Lick-Wilmerding High School",
+    "registrationLink": "https://hyphen-hacks26.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317466,
+    "title": "Hacklanta",
+    "organizer": "progsu",
+    "date": "2026-10-09T23:59:00.000Z",
+    "location": "Student Center East Ballroom GSU",
+    "registrationLink": "https://hacklanta.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317467,
+    "title": "RecT Solutions Hackathon: Beyond the CV 2026",
+    "organizer": "RecT Solutions",
+    "date": "2026-10-10T23:59:00.000Z",
+    "location": "IDEA Spaces Saldanha",
+    "registrationLink": "https://rect-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317468,
+    "title": "Palmetto Hacks",
+    "organizer": "Kappa Theta Pi South Carolina",
+    "date": "2026-10-10T23:59:00.000Z",
+    "location": "USC College of Engineering and Computing",
+    "registrationLink": "https://palmetto-hacks-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317469,
+    "title": "Knight Hacks IX",
+    "organizer": "Knight Hacks",
+    "date": "2026-10-09T23:59:00.000Z",
+    "location": "UCF Engineering II (ENG2)",
+    "registrationLink": "https://knight-hacks-ix.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317470,
+    "title": "Banana Hacks",
+    "organizer": "hackclub",
+    "date": "2026-10-09T00:00:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://www.bananahacks.tech",
+    "source": "hackclub",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317471,
+    "title": "United Hackathons V1",
+    "organizer": "Devonomics",
+    "date": "2026-10-06T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://devonomicsv1.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317472,
+    "title": "Build-A-Thon",
+    "organizer": "Major League Hacking",
+    "date": "2026-10-16T23:59:00.000Z",
+    "location": "NCC Digital Park, University of Ibadan",
+    "registrationLink": "https://build-a-thon-30568.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317473,
+    "title": "WWU Social Justice Hackathon",
+    "organizer": "Western Washington University",
+    "date": "2026-10-16T23:59:00.000Z",
+    "location": "WWU - Kaiser Borsari Building",
+    "registrationLink": "https://wwu-sj-hack.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317474,
+    "title": "AI Hackathon 2026 by LA Hacks",
+    "organizer": "LA Hacks",
+    "date": "2026-10-17T23:59:00.000Z",
+    "location": "James West Alumni Center",
+    "registrationLink": "https://la-ai-hackathon-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317475,
+    "title": "LarpHacks",
+    "organizer": "larphacks",
+    "date": "2026-10-23T23:59:00.000Z",
+    "location": "Toronto",
+    "registrationLink": "https://larphacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317476,
+    "title": "IEEE ClimateChain Global Hackathon",
+    "organizer": "IEEE Turkey",
+    "date": "2026-10-05T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://ieee-climatechain-hack.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317477,
+    "title": "HackPSU Fall 2026",
+    "organizer": "HackPSU",
+    "date": "2026-10-24T23:59:00.000Z",
+    "location": "ECoRE Building",
+    "registrationLink": "https://hackpsu-fall-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317478,
+    "title": "HackFW: MADE Challenge",
+    "organizer": "Fort Worth DAO",
+    "date": "2026-10-01T23:59:00.000Z",
+    "location": "Fort Worth",
+    "registrationLink": "https://hackfw.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317479,
+    "title": "Since AI 2026",
+    "organizer": "Since AI ry",
+    "date": "2026-11-06T23:59:00.000Z",
+    "location": "Kupittaa Campus, Turku",
+    "registrationLink": "https://sinceai2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317480,
+    "title": "CommuniHacks",
+    "organizer": "CommuniHacks",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "Builders Club",
+    "registrationLink": "https://communihacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317481,
+    "title": "Hack the Change 2026",
+    "organizer": "Code the Change YYC",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "University of Calgary",
+    "registrationLink": "https://hack-the-change-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317482,
+    "title": "BioHacks",
+    "organizer": "BioEng4Youth",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "McMaster University - PGCLL",
+    "registrationLink": "https://biohacksmcmaster.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317483,
+    "title": "HackCamp 2026",
+    "organizer": "nwPlus",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "University Endowment Lands, Canada",
+    "registrationLink": "https://hackcamp-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317484,
+    "title": "Meow",
+    "organizer": "IEEE@UC",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "1819 Innovation Hub",
+    "registrationLink": "https://makeuc-2026-30881.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317485,
+    "title": "MakeUC 2026",
+    "organizer": "IEEE@UC",
+    "date": "2026-11-07T23:59:00.000Z",
+    "location": "1819 Innovation Hub",
+    "registrationLink": "https://makeuc-2026-30884.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317486,
+    "title": "Central Hacks",
+    "organizer": "Central Michigan University",
+    "date": "2026-11-14T23:59:00.000Z",
+    "location": "Central Michigan University Pearce Hall",
+    "registrationLink": "https://central-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317487,
+    "title": "Arbiter Hacks V1",
+    "organizer": "Arbiter",
+    "date": "2026-09-14T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://arbiter-hacks-v1.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317488,
+    "title": "Bridge The Gap Hacks",
+    "organizer": "Bridge The Gap Hacks",
+    "date": "2026-11-15T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://sq-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317489,
+    "title": "FutureForge Hacks",
+    "organizer": "Future Forge",
+    "date": "2026-11-21T23:59:00.000Z",
+    "location": "Pleasanton, CA",
+    "registrationLink": "https://futureforge-hacks.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317490,
+    "title": "Cutie Hack 2026",
+    "organizer": "ACM at UCR",
+    "date": "2026-11-21T23:59:00.000Z",
+    "location": "UC Riverside - Winston Chung Hall",
+    "registrationLink": "https://cutie-hack-2026.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317491,
+    "title": "SourceHacks V1",
+    "organizer": "SourceHacks",
+    "date": "2026-12-11T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://sourcehacksv1.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317492,
+    "title": "hack::peel 2026",
+    "organizer": "Absolute Robotics #4308",
+    "date": "2026-12-12T23:59:00.000Z",
+    "location": "The Woodlands Secondary School",
+    "registrationLink": "https://hack-peel.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317493,
+    "title": "LaunchHacks V",
+    "organizer": "LaunchHacks",
+    "date": "2026-12-11T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://launchhacks-v.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317494,
+    "title": "evensonarisnord",
+    "organizer": "HoustonHacks2026",
+    "date": "2026-12-31T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://evensonarisnord.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317495,
+    "title": "United Hacks V8",
+    "organizer": "Hack United",
+    "date": "2027-01-08T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://unitedhacksv8.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317496,
+    "title": "Hoya Hacks 2027",
+    "organizer": "Hoya Hacks",
+    "date": "2027-01-22T23:59:00.000Z",
+    "location": "Healey Family Student Center",
+    "registrationLink": "https://hoya-hacks-2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317497,
+    "title": "H.A.R.D. Hack 2027",
+    "organizer": "HKN (Eta Kappa Nu)",
+    "date": "2027-01-30T23:59:00.000Z",
+    "location": "University of California - Jacobs Hall",
+    "registrationLink": "https://h-a-r-d-hack-2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317498,
+    "title": "HackTitan",
+    "organizer": "IWU",
+    "date": "2027-02-02T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://hacktitan.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317499,
+    "title": "SpartaHack 12",
+    "organizer": "SpartaHack",
+    "date": "2027-02-06T23:59:00.000Z",
+    "location": "MSU - STEM Building",
+    "registrationLink": "https://spartahack-12.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317500,
+    "title": "DeveloperWeek 2027 Hackathon",
+    "organizer": "DevNetwork",
+    "date": "2027-01-25T23:59:00.000Z",
+    "location": "Santa Clara Convention Center + Online",
+    "registrationLink": "https://developerweek-2027-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317501,
+    "title": "GoatHacks 2027",
+    "organizer": "WPI ACM",
+    "date": "2027-02-12T23:59:00.000Z",
+    "location": "WPI - Campus Center",
+    "registrationLink": "https://goathacks-2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317502,
+    "title": ".devHacks 2027",
+    "organizer": ".devClub",
+    "date": "2027-02-19T23:59:00.000Z",
+    "location": "EITC Building, University of Manitoba",
+    "registrationLink": "https://devhacks-2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317503,
+    "title": "Kent Hack Enough 2027",
+    "organizer": "HacKSU",
+    "date": "2027-03-06T23:59:00.000Z",
+    "location": "Kent State University - DI Hub",
+    "registrationLink": "https://khe-2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317504,
+    "title": "Tech to Treasure Hackathon",
+    "organizer": "bin to better",
+    "date": "2027-03-03T23:59:00.000Z",
+    "location": "Tully Community Branch Library",
+    "registrationLink": "https://techtotreasure.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317505,
+    "title": "BearHacks 2027",
+    "organizer": "BearHacks",
+    "date": "2027-04-23T23:59:00.000Z",
+    "location": "Sheridan College Hazel McCallion Campus",
+    "registrationLink": "https://bearhacks2027.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317506,
+    "title": "EurekaDev 2026",
+    "organizer": "Eureka Institute and UnivaDev",
+    "date": "2027-08-20T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://eurekadev.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317507,
+    "title": "hacks test",
+    "organizer": "n/a",
+    "date": "2027-09-09T23:59:00.000Z",
+    "location": "Vancouver, Canada",
+    "registrationLink": "https://youtube-automation-hackathon.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  },
+  {
+    "id": 1790919317508,
+    "title": "Brewing Codes 4.0",
+    "organizer": "HARD MODE",
+    "date": "2028-03-12T23:59:00.000Z",
+    "location": "Online",
+    "registrationLink": "https://brewing-codes-4-0.devpost.com/",
+    "source": "devpost",
+    "createdAt": "2026-10-02T05:35:17.334Z"
+  }
+]
